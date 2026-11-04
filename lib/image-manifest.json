@@ -1,0 +1,144 @@
+{
+ "/images/amala.jpg": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/amala.d3484777f5",
+  "stamp": "d3484777f5"
+ },
+ "/images/bulk-trays.jpg": {
+  "w": 480,
+  "h": 854,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/bulk-trays.6788e31bc5",
+  "stamp": "6788e31bc5"
+ },
+ "/images/chef-margaret.jpg": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/chef-margaret.adc5ce567f",
+  "stamp": "adc5ce567f"
+ },
+ "/images/jollof.jpg": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/jollof.81916fa045",
+  "stamp": "81916fa045"
+ },
+ "/images/logo.jpg": {
+  "w": 512,
+  "h": 512,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   512
+  ],
+  "base": "/images/_opt/logo.375ce3dbc7",
+  "stamp": "375ce3dbc7"
+ },
+ "/images/ofada.jpg": {
+  "w": 1080,
+  "h": 1350,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640,
+   750,
+   828,
+   1080
+  ],
+  "base": "/images/_opt/ofada.2d71f667b2",
+  "stamp": "2d71f667b2"
+ },
+ "/images/og-photo.jpg": {
+  "w": 480,
+  "h": 630,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/og-photo.74dab626f7",
+  "stamp": "74dab626f7"
+ },
+ "/images/party-rice.jpg": {
+  "w": 640,
+  "h": 1136,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640
+  ],
+  "base": "/images/_opt/party-rice.0106d354f8",
+  "stamp": "0106d354f8"
+ },
+ "/images/soup-bowls.jpg": {
+  "w": 640,
+  "h": 1136,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   640
+  ],
+  "base": "/images/_opt/soup-bowls.27140d1cd9",
+  "stamp": "27140d1cd9"
+ },
+ "/images/thanksgiving.jpg": {
+  "w": 480,
+  "h": 854,
+  "widths": [
+   96,
+   128,
+   256,
+   384,
+   480
+  ],
+  "base": "/images/_opt/thanksgiving.16dc1310f8",
+  "stamp": "16dc1310f8"
+ }
+}
